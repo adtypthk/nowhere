@@ -752,7 +752,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $orange;
+  color: $yellow;
   cursor: pointer;
   font-family: $Questrial;
   font-weight: 600;
@@ -775,7 +775,7 @@ img {
   font-size: 12px;
   margin: 0px;
   border-bottom: 1px solid $lightGray;
-  padding: 10px 0;
+  padding: 20px 0;
 
   @include mobile {
   }
@@ -783,9 +783,9 @@ img {
 
 nav {
   float: none;
-  font-family: $helveticaNeue;
+  font-family: $Questrial;
   font-size: 18px;
-  padding: 15px 0;
+  padding: 20px 0;
   border-bottom: 1px solid $lightGray;
   line-height: 2.5em;
 
