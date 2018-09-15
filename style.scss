@@ -752,9 +752,9 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: rgba (255,140,0,1.0);
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $Questrial;
   font-weight: 600;
   font-size: 80px;
   letter-spacing: 1px;
@@ -771,7 +771,7 @@ img {
 }
 
 .site-description {
-  color: rgba(255,140,0,0);
+  color: $gray;
   font-size: 12px;
   margin: 0px;
   border-bottom: 1px solid $lightGray;
