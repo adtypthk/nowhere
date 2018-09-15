@@ -771,11 +771,11 @@ img {
 }
 
 .site-description {
-  color: $gray;
-  font-size: 16px;
+  color: $orange;
+  font-size: 12px;
   margin: 0px;
   border-bottom: 1px solid $lightGray;
-  padding: 20px 0;
+  padding: 10px 0;
 
   @include mobile {
   }
@@ -785,9 +785,9 @@ nav {
   float: none;
   font-family: $helveticaNeue;
   font-size: 18px;
-  padding: 20px 0;
+  padding: 15px 0;
   border-bottom: 1px solid $lightGray;
-  line-height: 3em;
+  line-height: 2.5em;
 
   @include mobile {
     margin-top: 9px;
