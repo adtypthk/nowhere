@@ -583,7 +583,7 @@ img {
   font-size: 12px;
   letter-spacing: 1px;
   padding-top: 4px;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Questrial', Questrial, Arial;
   
   @include smallview {
   font-size: 9px;
@@ -771,7 +771,7 @@ img {
 }
 
 .site-description {
-  color: $orange;
+  color: rgba(255,140,0,0);
   font-size: 12px;
   margin: 0px;
   border-bottom: 1px solid $lightGray;
