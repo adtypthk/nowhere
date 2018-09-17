@@ -213,12 +213,12 @@ img {
 .research-bubble-wrapper{
 
   @include smallview {
-    height: 250px;
+    height: 275px;
     width: 100%;
   }
 
   @include mobile {
-    height: 250px;
+    height: 275px;
     width: 100%;
   }
 
@@ -226,8 +226,8 @@ img {
 
 .research-bubble {
   float: left;
-  height: 250px;
-  width: 250px;
+  height: 275px;
+  width: 275px;
   border-radius: 50%;
   overflow: auto;
   margin: 0 10px 0 0;
